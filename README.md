@@ -95,3 +95,15 @@ The model covers:
 - Microsoft Excel
 
 ---
+
+## Disclaimer
+
+This project is created for educational and financial modeling purposes only. The assumptions, calculations, and outputs are illustrative and do not constitute investment advice, a recommendation, or a forecast of an actual transaction outcome.
+
+---
+
+## Author
+
+**Utkarsh Singh Malra**
+
+Financial Modeling | Equity Research | Corporate Finance
