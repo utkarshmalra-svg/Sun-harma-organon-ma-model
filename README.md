@@ -31,19 +31,14 @@ The model covers:
 
 ---
 
-## Excel Financial Model
+## Project Files
 
-The complete Excel financial model is available below:
+### Excel Financial Model
+[📊 Download Excel Model](./Sun_pharma%20_M%26A_Model.xlsx)
 
-[📊 Download Excel Financial Model](Sun_pharma _M&A_Model.xlsx)
 
----
-
-## PDF Report
-
-The detailed project report is available here:
-
-[📄 View / Download PDF Report](Merger And Acquisition Model.pdf)
+### PDF Report
+[📄 View / Download M&A Model PDF](./Merger%20And%20Acquisition%20Model.pdf)
 
 ---
 
