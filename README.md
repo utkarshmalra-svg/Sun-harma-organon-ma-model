@@ -96,8 +96,8 @@ The model covers:
 
 - Fee components: financial advisory (0.65%), legal and accounting (0.40%) and financing fees (0.40%), each taken as the average of its typical range.
 - Total fee rate: the components add up to 1.45%, within the typical 1.0%–2.0% range for deals of this kind.
-- Fee amount: 37,865.1 Cr equity value × 1.45% = 549.04 Cr. No public information exists on the actual fees, so this is an assumption based on market norms.
-
+- Fee amount: 37,865.1 Cr equity value × 1.45% = 549.04 Cr.
+  
 ![Transaction Fees](06_Transaction_Fees.png)
 
 ---
