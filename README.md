@@ -54,7 +54,7 @@ The model covers:
 
 ---
 
-## 2. Transaction Assumptions
+## 3. Transaction Assumptions
 
 - Purchase price: deal price of 1,328.6 per share × 28.5 Cr shares = 37,865.1 Cr total equity value.
 - Financing mix: 100% cash consideration, with no stock or debt consideration.
@@ -62,7 +62,7 @@ The model covers:
 
 ![Transaction Assumptions](02_Transaction_Assumptions.png)
 
-## 2. Pro Forma Assumptions
+## 4. Pro Forma Assumptions
 
 - Pro forma net income: Sun Pharma 11,509 + Organon 1,638.12 + after-tax synergies 208.20, less after-tax interest on new financing, gives 12,613 Cr.
 - After-tax synergies: 277.60 × (1 − 25%) = 208.20 Cr.
@@ -72,7 +72,7 @@ The model covers:
 
 ---
 
-## 3. Revenue Synergies
+## 5. Revenue Synergies
 
 - Synergy ramp-up: synergies as a % of target revenue rise from 0.5% (Years 0–1) to 1.0%, 1.5% and 2.0% by Year 4.
 - Target revenue forecast: grows from 55,520 Cr (Year 0) to 61,523 Cr (Year 4), at 2.3% to 2.9% annual growth.
@@ -82,7 +82,7 @@ The model covers:
 
 ---
 
-## 4. Pro Forma Cost of Debt
+## 6. Pro Forma Cost of Debt
 
 - Existing debt: Sun Pharma 4,627 Cr at 8.16% (INR) and Organon 863.8 Cr at 4.87% (USD).
 - New debt: 975 Cr issued by Sun Pharma at 6.15% (USD).
@@ -92,13 +92,17 @@ The model covers:
 
 ---
 
-## 5. Transaction Fees Estimation
+## 7. Transaction Fees Estimation
+
+- Fee components: financial advisory (0.65%), legal and accounting (0.40%) and financing fees (0.40%), each taken as the average of its typical range.
+- Total fee rate: the components add up to 1.45%, within the typical 1.0%–2.0% range for deals of this kind.
+- Fee amount: 37,865.1 Cr equity value × 1.45% = 549.04 Cr. No public information exists on the actual fees, so this is an assumption based on market norms.
 
 ![Transaction Fees](06_Transaction_Fees.png)
 
 ---
 
-## 6. Accretion & Dilution Analysis
+## 8. Accretion & Dilution Analysis
 
 - EPS comparison: standalone EPS of 47.95 vs pro forma EPS of 52.55.
 - Accretion: pro forma EPS is 9.59% higher, so the deal is accretive.
